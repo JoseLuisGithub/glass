@@ -41,5 +41,8 @@
         "single"
       ]
     }
+  },
+  "dependencies": {
+    "angular-route": "^1.6.9"
   }
 }
